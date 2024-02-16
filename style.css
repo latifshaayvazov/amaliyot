@@ -1732,11 +1732,11 @@ line-height: 18px;
 letter-spacing: 0em;
 color: #e3e6f08a;
 border-bottom: 1px solid #e3e6f08a;
-margin-left: 625px;
+margin-left: 43%;
 }
 .tepa{
     position: fixed;
     z-index: 20;
     top: 500px;
-    right: 0;
+    right: 10px;
 }
